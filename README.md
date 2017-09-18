@@ -11,4 +11,3 @@ After finishing *Learn Enough™ Git to Be Dangerous*, you'll know enough Git
 to be *dangerous*. This means you'll be able to use Git to track changes in
 your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
-The result in Atom appears as shown in Figure 25. As mentioned in Learn Enough Text Editor to Be Dangerous, Atom includes a Markdown previewer via the Packages menu item shown in Figure 26, which (after resizing the window) results in the preview shown in Figure 27.15
